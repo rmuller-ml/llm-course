@@ -14,41 +14,41 @@ Table of contents:
 
 
 1. Introduction
-  1.Requirements
-  2. How language models work
-  3. What will we build?
-    * [Auto-correct](https://github.com/rmuller-ml/llm-course/blob/main/2_auto_correct.ipynb)
-    * [Auto-complete](https://github.com/rmuller-ml/llm-course/blob/main/3_auto_complete.ipynb)
-    * Text summarizer
-    * Document question-answering 
-    * Chatbot (TODO)
-    * Parsing unstructured data (TODO)
-    * Building a bot that can use tools: local or remote APIs (TODO)
+1.Requirements
+	2. How language models work
+	3. What will we build?
+		* [Auto-correct](https://github.com/rmuller-ml/llm-course/blob/main/2_auto_correct.ipynb)
+		* [Auto-complete](https://github.com/rmuller-ml/llm-course/blob/main/3_auto_complete.ipynb)
+		* Text summarizer
+		* Document question-answering 
+		* Chatbot (TODO)
+		* Parsing unstructured data (TODO)
+		* Building a bot that can use tools: local or remote APIs (TODO)
 2. Auto-correct: how language models work
-  1. Language modeling intro 
-  2. Tokenizers
-  3. Completion
-  4. Auto-correct
-  5. Model training
-  6. End-to-end code example 
+	1. Language modeling intro 
+	2. Tokenizers
+	3. Completion
+	4. Auto-correct
+	5. Model training
+ 	6. End-to-end code example 
 3. Auto-complete: how large language models work
-  1. Sub-words vocabulary
-  2. Transformers
-  3. Training large language models
-  4. GPT and other pre-trained models
-  5. Auto-complete
-  6. Classification
+	1. Sub-words vocabulary
+	2. Transformers
+	3. Training large language models
+	4. GPT and other pre-trained models
+ 	5. Auto-complete
+	6. Classification
 4. Text summarizer: how to adapt a pre-trained model to a specific task
-  1. Few shot prompt
-  2. Classification
-  3. Summarization	
-  4. Prompt evaluation with hypothesis testing
-  5. Fine-tuning
-  6. Reinforcement learning with human feedback intro (TODO)
+	1. Few shot prompt
+	2. Classification
+	3. Summarization	
+	4. Prompt evaluation with hypothesis testing
+	5. Fine-tuning
+	6. Reinforcement learning with human feedback intro (TODO)
 5. Document question-answering: how to augment the memory of a language model
-  1. In-memory question answering
-  2. Summarization question answering
-  3. Similarity search
-  4. Embedding question answering
-  5. LM chains and Langchain
+	1. In-memory question answering
+	2. Summarization question answering
+	3. Similarity search
+	4. Embedding question answering
+	5. LM chains and Langchain
 
