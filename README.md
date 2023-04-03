@@ -14,7 +14,7 @@ Table of contents:
 
 
 1. Introduction
-1.Requirements
+	1. Requirements
 	2. How language models work
 	3. What will we build?
 		* [Auto-correct](https://github.com/rmuller-ml/llm-course/blob/main/2_auto_correct.ipynb)
